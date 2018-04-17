@@ -18,11 +18,8 @@ while True:
     
     #after faces are found
     for (x,y,w,h) in faces:
-        #drawing a rectangle        
-        #cv2.rectangle(img, (x,y), (x+w, y+h), (0,0,0), 2)
-        
         #roi = region of the image 
-        roi_color = img[y:y+h, x:x+w] #{starting_point_ending_point}
+        roi_color = img[y:y+h, x:x+w] #{starting_point:ending_point}
         eyes = eye_cascade.detectMultiScale(roi_color)
         
         
