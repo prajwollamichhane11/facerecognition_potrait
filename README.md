@@ -2,7 +2,7 @@
 
 Various mobile devices nowadays are coming with the feature or ability to take potrait images. If on mobile devices then why not on the laptop (joking !!).
 
-This is just a small scarp pf python code using opencv and various other image libraries in python so as to show how a simple potrait image can even be obtained through laptop camera.
+This is just a small scrap pf python code using opencv and various other image libraries in python so as to show how a simple potrait image can even be obtained through laptop camera.
 
 for running this code you have to install any Python IDEs like : Spyder3, Pycharm, Anaconda, etc
 After installing import libraries like :
