@@ -12,6 +12,12 @@ Before this you have to install python-pip3.
 
 Run the code and obtain the result.
 
+Using:
+1. Press 'S' to take image. Check whether the window is selected or not.
+2. Press 'Esc' to exit. #Clicking the cross won't exit it.
+
+
+
 #TODO
 1. Shortly use on mobile devices
 2. Implement algorithms and deep learning
