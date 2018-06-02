@@ -9,16 +9,16 @@ After installing import libraries like :
 1. cv2
 2. PIL
 Before this you have to install python-pip3.
-
+After installing:
 Run the code and obtain the result.
 
 Using:
 1. Press 'S' to take image. Check whether the window is selected or not.
-2. Press 'Esc' to exit. #Clicking the cross won't exit it.
+2. Press 'Esc' to exit. # Clicking the cross won't exit it.
 
 
 
 #TODO
 1. Shortly use on mobile devices
-2. Implement algorithms and deep learning
+2. Implement algorithms and deep learning 
 
