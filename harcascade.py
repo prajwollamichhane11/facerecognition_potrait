@@ -35,7 +35,7 @@ while True:
             ''' '''
     cv2.imshow('img',img)
     k = cv2.waitKey(30) & 0xff
-    if k == 27:
+    if k == 27: #Meaning Quits on ESC pressing
         break
     elif k == ord('s'):
         cv2.imwrite('mypic.png',img)
